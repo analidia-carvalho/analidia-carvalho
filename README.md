@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da analidia-carvalho 😁
+## Bem-vindo(a) ao meu perfil: analidia-carvalho 😁
 
  <div>
    <a href="https://github.com/analidia-carvalho">
