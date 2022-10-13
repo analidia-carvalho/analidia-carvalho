@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil da AnaLidia-Carvalho 😁
+## Bem-vindo(a) ao perfil da analidia-carvalho 😁
 
  <div>
-   <a href="https://github.com/AnaLidia-Carvalho">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLidia-Carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLidia-Carvalho&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/analidia-carvalho">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=analidia-carvalho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=analidia-carvalho&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -23,6 +23,6 @@
   <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ana-lidia-carvalho-50645514b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/AnaLidia-Carvalho/AnaLidia-Carvalho/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/analidia-carvalho/analidia-carvalho/blob/output/github-contribution-grid-snake.svg)
 
 </div>
